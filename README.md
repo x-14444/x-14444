@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### 
+#### My Current Activity
 
 ![image](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo-bitcoin&logoColor=white)
 ![image](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo-binance&logoColor=000)
