@@ -1,5 +1,4 @@
-## Hi Everyone👋 
-Welcome to Jovan's profile
+## Hi Everyone👋 Welcome to Jovan's profile
 
 <!--
 **x-14444/x-14444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
